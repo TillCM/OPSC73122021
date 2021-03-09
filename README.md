@@ -19,9 +19,18 @@ So far you have :
 
 [Create HTTP Get Method in in the Network Util Class](https://www.youtube.com/watch?v=JPMFc7uAD6E&list=PL480DYS-b_kf-pheFMX1W_-YmnMpg4Gs7&index=6)
 
-4. Call the HTTP GET method in your main activty and display the JSON you recieve in a textbox (For now)
-5. Create a GitHub repo called simpleweather
-6. Push up your app as your initial commit. 
+4. Create your firs Fragment:
+
+[Create your first fragement](https://www.youtube.com/watch?v=dP6rTP_cUfg&list=PL480DYS-b_kf-pheFMX1W_-YmnMpg4Gs7&index=7)
+
+These Fragments are UGGGGLLLYYYYYYY we need to make them better .... dont know what I was thinking !!!! 
+
+6. Call the HTTP GET method in your  fragment  and display the JSON you recieve in a textbox (For now)
+
+[Create the GetWeather Anonymous class to fetch our JSON](https://www.youtube.com/watch?v=NaqLI3PAiVk&list=PL480DYS-b_kf-pheFMX1W_-YmnMpg4Gs7&index=8)
+
+8. Create a GitHub repo called simpleweather
+9. Push up your app as your initial commit. 
 
 Good luck pookies 
 
